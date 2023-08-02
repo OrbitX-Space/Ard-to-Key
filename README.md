@@ -1,9 +1,3 @@
-                           
- ▄▀█ █▀█ █▀▄ ▀█▀ █▀█ █▄▀ █▀▀ █▄█
- █▀█ █▀▄ █▄▀ ░█░ █▄█ █░█ ██▄ ░█░
-
-
-
 Installation: 
 
 1. Install or Run all the files inside the "Redist" folder. (Skip this step if already installed)
