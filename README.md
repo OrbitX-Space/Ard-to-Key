@@ -1,5 +1,4 @@
-<a href='' target="_blank"><img alt='Twitter' src='https://img.shields.io/badge/OrbitX.Space-100000?style=flat&logo=Twitter&logoColor=ffffff&labelColor=0299FE&color=ffffff'/></a>
-<a href='' target="_blank"><img alt='Discord' src='https://img.shields.io/badge/OrbitX.Space-100000?style=flat&logo=Discord&logoColor=ffffff&labelColor=0425F7&color=080000'/></a>
+<a href='https://twitter.com/OrbitX_Space?t=jEPMn_Dx5wny0qKDew298Q&s=08' target="_blank"><img alt='Twitter' src='https://img.shields.io/badge/OrbitX.Space-100000?style=flat&logo=Twitter&logoColor=white&labelColor=08a4f6&color=2f3136'/></a>
 
 Installation: 
 
@@ -21,4 +20,4 @@ Troubleshooting:
 *Take a look at the images in the "Troubleshooting" folder to fix your COM Port & baud rate issues (if any).
 
 
-Author: OrbitX.Space
+												         Author: OrbitX.Space
