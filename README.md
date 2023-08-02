@@ -1,5 +1,4 @@
 <a href='' target="_blank"><img alt='Twitter' src='https://img.shields.io/badge/OrbitX.Space-100000?style=flat&logo=Twitter&logoColor=ffffff&labelColor=0299FE&color=ffffff'/></a>
-
 <a href='' target="_blank"><img alt='Discord' src='https://img.shields.io/badge/OrbitX.Space-100000?style=flat&logo=Discord&logoColor=ffffff&labelColor=0425F7&color=080000'/></a>
 
 Installation: 
