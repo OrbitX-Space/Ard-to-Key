@@ -6,7 +6,7 @@
 
 ***
 
-**Installation** 
+**Installation** 🡆 
 
 1. Install or Run all the files inside the "Redist" folder. (Skip this step if already installed)
 2. Run the windows batch files "pyserial.bat" & "pyautogui.bat". (Installation of required libraries)
@@ -16,7 +16,7 @@
 
 ***
 
-**Troubleshooting**
+**Troubleshooting** 🡆
 
 $ If u will to change the key mapped to the switch, then go to the "sketch.ino" file inside the Sketch folder and edit the key already mapped to your key which you wish to. (Beta Version, GUI updates coming soon)
 
