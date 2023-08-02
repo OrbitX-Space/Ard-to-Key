@@ -4,6 +4,8 @@
 <a href='' target="_blank"><img alt='GitHub' src='https://img.shields.io/badge/GitHub-Passing-100000?style=flat&logo=GitHub&logoColor=white&labelColor=2b3838&color=2aae48'/></a>
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='GitHub' src='https://img.shields.io/badge/License-GNU-100000?style=flat&logo=GitHub&logoColor=white&labelColor=2b3838&color=c7ba00'/></a>
 
+___
+
 **Installation** 
 
 1. Install or Run all the files inside the "Redist" folder. (Skip this step if already installed)
@@ -12,6 +14,7 @@
 4. Run the "Start_Serial_Keyboard.bat" file.
 5. Enjoy!
 
+___
 
 **Troubleshooting**
 
@@ -24,5 +27,6 @@ $ You can find your correct COM Port and baud rate in the Arduino IDE.
 $ Take a look at the images in the "Troubleshooting" folder to fix your COM Port & baud rate issues (if any
 
 
+___
 
 **Author: OrbitX.Space**
