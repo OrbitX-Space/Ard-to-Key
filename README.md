@@ -20,12 +20,11 @@
 
 $ If you wish to change the key mapped to the switch, then go to the "sketch.ino" file inside the Sketch folder and edit the key already mapped to your key which you wish to. (Beta Version, GUI updates coming soon)
 
-$ In case Serial Keyboard doesn't work, you may have to replace the COM Port with the correct port and baud rate on which the Arduino runs.
+$ In case ArdToKey doesn't work, you may have to replace the COM Port with the suitable port and baud rate on which the Arduino runs on your computer.
 
-$ You can find your correct COM Port and baud rate in the Arduino IDE.	
+$ You can find your suitable COM Port and baud rate for your computer in the Arduino IDE.	
 
-$ Take a look at the images in the "Troubleshooting" folder to fix your COM Port & baud rate issues (if any
-
+$ Take a look at the images in the "Troubleshooting" folder to fix your COM Port & baud rate issues (if any)
 
 ***
 
