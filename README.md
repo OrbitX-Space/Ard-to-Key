@@ -8,11 +8,9 @@
 
 **Installation** 🡆 
 
-1. Install or Run all the files inside the "Redist" folder. (Skip this step if already installed)
-2. Run the windows batch files "pyserial.bat" & "pyautogui.bat" in the libraries folder. (Installation of required libraries)
-3. Head to "Sketch.ino" file & upload the sketch to your Arduino board.
-4. Run the "Start_Serial_Keyboard.bat" file.
-5. Enjoy!
+1. Head to "Sketch.ino" file & upload the sketch to your Arduino board.
+2. Run the "Start_Serial_Keyboard.bat" file.
+3. Enjoy!
 
 ***
 
