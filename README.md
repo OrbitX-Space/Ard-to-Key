@@ -1,4 +1,4 @@
-# ArdToKey (1.0)
+# ArdToKey (Beta)
 
 ![ArdToKey(Beta)](ArdToKey_Banner.jpg)
 
