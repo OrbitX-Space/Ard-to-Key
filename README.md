@@ -8,8 +8,8 @@
 
 ## Installation
 
-1. Head to "Sketch.ino" file & upload the sketch to your Arduino board.
-2. Run the "Start_Serial_Keyboard.bat" file.
+1. Head to "**Sketch.ino**" file & upload the sketch to your Arduino board.
+2. Run the "**Start_Serial_Keyboard.bat**" file.
 3. Enjoy!
 
 ## Troubleshooting
